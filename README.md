@@ -73,22 +73,6 @@ O AMPulseServer inclui todos os componentes necessários para desenvolvimento we
 
 ---
 
-# 📸 Capturas de Tela
-
-## Painel Principal
-
-![Painel Principal](images/tela-principal.png)
-
-## Configuração dos Serviços
-
-![Configurações](images/configuracoes.png)
-
-## Diagnóstico Web
-
-![Diagnóstico](images/diagnostico.png)
-
----
-
 # 💻 Requisitos do Sistema
 
 ## Sistema Operacional Recomendado
