@@ -108,15 +108,15 @@ Nenhuma configuração manual dos arquivos principais é necessária.
   
 AMPulseServer /
 --------------
-Apache/
-MariaDB/
-PHP/ 7.4 - 8.3 - 8.4 - 8.5 - Config/
-App / phpMyAdmin/
-App / HeidiSQL/
-App / Mailpit/
-Dashboard/Painel Ampulse
-www/ projetos/
-Temp/logs/
+Apache/ <br>
+MariaDB/ <br>
+PHP/ 7.4 - 8.3 - 8.4 - 8.5 - Config/ <br>
+App / phpMyAdmin/ <br>
+App / HeidiSQL/ <br>
+App / Mailpit/ <br>
+Dashboard/Painel Ampulse <br>
+www/ projetos/ <br>
+Temp/logs/ <br>
  
 
 
