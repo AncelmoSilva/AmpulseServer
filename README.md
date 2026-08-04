@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="images/logo.png" width="250">
+  <img src="logo.png" width="250">
 </p>
 
 <h1 align="center">🚀 AMPulseServer 1.0</h1>
