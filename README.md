@@ -154,6 +154,8 @@ A versão mais recente está disponível na página:
 
 **GitHub Releases**
 
+https://github.com/AncelmoSilva/AmpulseServer/releases/tag/AmpulseServer
+
 ---
 
 # 📄 Licença
