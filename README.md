@@ -144,7 +144,7 @@ https://github.com/AncelmoSilva/AmpulseServer/releases/tag/AmpulseServer
 
 # 📄 Licença
 
-O **AMPulse.exe** é distribuído sob licença **EULA (End User License Agreement)**.
+O **AMPulse.exe** é distribuído gratuitamente sem restrições e sob licença EULA (End User License Agreement)
 
 Os componentes de terceiros incluídos no pacote, incluindo:
 
