@@ -10,8 +10,7 @@
   Ambiente completo de desenvolvimento web com Apache, MariaDB e PHP para Windows 64 bits.
 </p>
 
-O **AMPulseServer** é um servidor web local desenvolvido para facilitar a criação, 
-configuração e testes de aplicações web.
+O **AMPulseServer** é um servidor web local gratuito, desenvolvido para oferecer uma solução simples, leve e rápida para o desenvolvimento e testes de aplicações web.
 
 Com uma interface moderna de gerenciamento, o sistema automatiza a configuração dos principais componentes 
 de um ambiente PHP, oferecendo aos desenvolvedores uma alternativa prática para desenvolvimento local.
