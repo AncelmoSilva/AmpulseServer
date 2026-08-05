@@ -137,8 +137,7 @@ A versão mais recente está disponível na página:
 
 **GitHub Releases**
 
-https://github.com/AncelmoSilva/AmpulseServer/releases/tag/AmpulseServer
-
+https://github.com/AncelmoSilva/AmpulseServer/releases/
  
 <a href="https://github.com/AncelmoSilva/AmpulseServer/releases/download/AMPulseServer/InstallAmpulse.exe" class="btn-download">
     Download direto
