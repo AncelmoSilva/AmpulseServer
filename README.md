@@ -153,7 +153,11 @@ https://github.com/AncelmoSilva/AmpulseServer/releases/
 
 # 📄 Licença
 
-O **AMPulse.exe** é distribuído gratuitamente sem restrições e sob licença EULA (End User License Agreement)
+O **AMPulse.exe** é distribuído **gratuitamente**, sem restrições de licenciamento de uso.
+
+A utilização do software está sujeita aos termos da licença EULA (End User License Agreement).
+
+Para mais informações, consulte a documentação que acompanha o software.
 
 Os componentes de terceiros incluídos no pacote, incluindo:
 
@@ -178,6 +182,12 @@ Desenvolvido por:
 GitHub:
 https://github.com/AncelmoSilva/
 ---
+ 
 
-⭐ Se este projeto foi útil para seu desenvolvimento, 
-considere acompanhar o repositório e acompanhar futuras versões.
+⭐ Se este projeto foi útil para seu desenvolvimento, considere acompanhar o repositório 
+ para receber futuras versões e compartilhar seu feedback.
+
+🤝 Agradecemos seu interesse, apoio e contribuição para a evolução deste projeto!
+ 
+ 
+
