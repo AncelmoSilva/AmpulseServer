@@ -6,14 +6,18 @@
 <h1 align="center">🚀 AMPulseServer 1.0</h1>
 
 
-<p align="center">
+<p align="left">
   Ambiente completo de desenvolvimento web com Apache, MariaDB e PHP para Windows 64 bits.
 </p>
 
-O **AMPulseServer** é um servidor web local gratuito, desenvolvido para oferecer uma solução simples, leve e rápida para o desenvolvimento e testes de aplicações web.
+**Gratuito, de fácil uso e instalação.**
+ 
+Desenvolvido para proporcionar um ambiente local rápido, leve, estável e prático para o desenvolvimento,
+execução e testes de aplicações web.
 
-Com uma interface moderna de gerenciamento, o sistema automatiza a configuração dos principais componentes 
-de um ambiente PHP, oferecendo aos desenvolvedores uma alternativa prática para desenvolvimento local.
+Com um painel de controle simples e intuitivo, o AMPulseServer simplifica o gerenciamento do ambiente de 
+desenvolvimento automatizando a configuração dos principais componentes de um ambiente PHP, oferecendo aos 
+desenvolvedores uma alternativa prática para desenvolvimento local.
 
 ---
 
@@ -138,9 +142,11 @@ A versão mais recente está disponível na página:
 **GitHub Releases**
 
 https://github.com/AncelmoSilva/AmpulseServer/releases/
+
+**Se preferir baixe direto no link anexo**
  
 <a href="https://github.com/AncelmoSilva/AmpulseServer/releases/download/AMPulseServer/InstallAmpulse.exe" class="btn-download">
-    Download direto
+    Download
 </a>
 
 ---
