@@ -184,8 +184,9 @@ https://github.com/AncelmoSilva/
 ---
  
 
-⭐ Se este projeto foi útil para seu desenvolvimento, considere acompanhar o repositório 
- para receber futuras versões e compartilhar seu feedback.
+⭐ Se este projeto foi útil para seu desenvolvimento, considere acompanhar 
+
+ o repositório para receber futuras versões e compartilhar seu feedback.
 
 🤝 Agradecemos seu interesse, apoio e contribuição para a evolução deste projeto!
  
