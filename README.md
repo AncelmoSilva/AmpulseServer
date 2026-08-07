@@ -153,9 +153,9 @@ https://github.com/AncelmoSilva/AmpulseServer/releases/
 
 # 📄 Licença
 
-O **AMPulse.exe** é disponibilizado **gratuitamente**, sem cobrança de licença, publicidade
+O **AMPulse.exe** é disponibilizado **gratuitamente**, sem cobrança de licença, 
 
-incorporada, mensagens promocionais ou limitações artificiais de uso.
+publicidade incorporada, mensagens promocionais ou limitações artificiais de uso.
 
 Sua utilização permanece sujeita aos termos do Contrato de Licença de Usuário Final (EULA) 
 
