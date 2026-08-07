@@ -85,8 +85,8 @@ O AMPulseServer inclui todos os componentes necessários para desenvolvimento we
 ## Hardware recomendado
 
 * Processador compatível com arquitetura x64
-* Memória RAM: 4 GB ou superior
 * Espaço em disco disponível para instalação dos componentes 1 GB
+* Microsoft Visual C++ Redistributable Atualizada. " Consulte a documentação de cada componente "
 
 ---
 
@@ -94,7 +94,7 @@ O AMPulseServer inclui todos os componentes necessários para desenvolvimento we
 
 A instalação é realizada através do instalador criado com **Inno Setup**.
 
-Após a instalação inicial, o próprio AMPulseServer realiza automaticamente:
+Após a instalação inicial, o aplicativo realiza automaticamente:
 
 1. Configuração do Apache.
 2. Configuração do MariaDB.
