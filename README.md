@@ -121,7 +121,7 @@ Dashboard/Painel Ampulse <br>
 www/ projetos/ <br>
 Temp/logs/ <br>
  
-
+---
 
 ## 🎯 Objetivo do Projeto
 
@@ -193,12 +193,9 @@ https://github.com/AncelmoSilva/
 
  o repositório para receber futuras versões e compartilhar seu feedback.
 
-
- ---
-
- 
-
 🤝 Agradecemos seu interesse, apoio e contribuição para a evolução deste projeto!
+
+---
  
  
 
