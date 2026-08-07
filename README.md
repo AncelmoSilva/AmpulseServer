@@ -25,7 +25,7 @@ desenvolvedores uma alternativa prática para desenvolvimento local.
 
 ## 🖥️ Painel Desktop de Gerenciamento
 
-O AMPulseServer possui um painel de controle inspirado em ferramentas como XAMPP, permitindo o gerenciamento completo do ambiente local.
+Painel de controle inspirado em ferramentas como XAMPP, permitindo o gerenciamento completo do ambiente local.
 
 Principais funcionalidades:
 
@@ -44,7 +44,7 @@ Principais funcionalidades:
 
 ---
 
-# 🌐 Painel Web para Diagnóstico e Monitoramento
+## 🌐 Painel Web para Diagnóstico e Monitoramento
 
 Recursos disponíveis:
 
@@ -60,9 +60,9 @@ Recursos disponíveis:
 
 ---
 
-# 🏗️ Ambiente Integrado
+## 🏗️ Ambiente Integrado
 
-O AMPulseServer inclui todos os componentes necessários para desenvolvimento web local:
+Componentes necessários para desenvolvimento web local:
 
 | Componente         | Versão                              |
 | ------------------ | ----------------------------------- |
@@ -76,7 +76,7 @@ O AMPulseServer inclui todos os componentes necessários para desenvolvimento we
 
 ---
 
-# 💻 Requisitos do Sistema
+## 💻 Requisitos do Sistema
 
 ## Sistema Operacional Recomendado
 
@@ -90,7 +90,7 @@ O AMPulseServer inclui todos os componentes necessários para desenvolvimento we
 
 ---
 
-# 📦 Instalação
+## 📦 Instalação
 
 A instalação é realizada através do instalador criado com **Inno Setup**.
 
@@ -106,7 +106,7 @@ Nenhuma configuração manual dos arquivos principais é necessária.
 
 ---
 
-# 📂 Estrutura do Ambiente
+## 📂 Estrutura do Ambiente
 
   
 AMPulseServer /
@@ -123,9 +123,9 @@ Temp/logs/ <br>
  
 
 
-# 🎯 Objetivo do Projeto
+## 🎯 Objetivo do Projeto
 
-O AMPulseServer foi desenvolvido para:
+O **AMPulseServer** foi desenvolvido para:
 
 * Facilitar o desenvolvimento e testes de aplicações web 
  com a linguagem PHP em ambientes local.
@@ -135,7 +135,7 @@ O AMPulseServer foi desenvolvido para:
 
 ---
 
-# ⬇️ Download
+## ⬇️ Download
 
 A versão mais recente está disponível na página:
 
@@ -143,7 +143,7 @@ A versão mais recente está disponível na página:
 
 https://github.com/AncelmoSilva/AmpulseServer/releases/
 
-**Se preferir baixe direto no link anexo**
+**Caso queira, baixe direto no link anexo**
  
 <a href="https://github.com/AncelmoSilva/AmpulseServer/releases/download/AMPulseServer/InstallAmpulse.exe" class="btn-download">
     Download
@@ -192,6 +192,11 @@ https://github.com/AncelmoSilva/
 ⭐ Se este projeto foi útil para seu desenvolvimento, considere acompanhar 
 
  o repositório para receber futuras versões e compartilhar seu feedback.
+
+
+ ---
+
+ 
 
 🤝 Agradecemos seu interesse, apoio e contribuição para a evolução deste projeto!
  
